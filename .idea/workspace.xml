@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a246886-b5bd-450e-b95b-e3b8bfa94a1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_in_local" beforeDir="false" afterPath="$PROJECT_DIR$/add_in_local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/div.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_in_emote.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_in_emote2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_in_emote3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_in_local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in_main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in_testing1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infile_testing2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junfile.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
